@@ -1,4 +1,4 @@
-# Console-Based Arithmetic and Base Conversion Application
+# Big Integer System Converter and Calculator 
 
 The app is designed for performing basic arithmetic operations and numeric conversions between bases 2 to 16. The application reads input from a text file, processes queries, and saves the results in a new text file. It is compatible with both Windows and Linux systems, however you might need to pay attention to the input file fromat. Depending on the operating system, you should use either LF or CRLF as the end-of-line sequence. 
 
