@@ -13,7 +13,6 @@ The application reads queries from a text file named `input.txt`, located in the
   <number from the specified system>
   
   <number from the specified system>
-    
   ```
 
 - For conversions:
@@ -21,7 +20,6 @@ The application reads queries from a text file named `input.txt`, located in the
   <number system> <number system>
   
   <number from the first specified system>
-
   ```
 
 There is no requirement to include the number of tests in the file; the program handles any number of queries.
